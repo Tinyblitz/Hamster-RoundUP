@@ -4,7 +4,11 @@
 // There are 3 levels in total increasing in difficulty.
 
 //////~~~ CONTROLS ~~~///////////
+
 // UP arrow key or 'w': move player up
+
 // DOWN arrow key or 's': move player down
+
 // SPACEBAR: activate claw
+
 // ESC key: pause during game
